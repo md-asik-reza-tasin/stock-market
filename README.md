@@ -19,7 +19,7 @@ You can access the live version of the app here: [Live Demo](https://stock-marke
 
 ### What You Can Do in the Web App:
 - **View Data**: You can choose a trade code and view the data related to that specific trade code.
-- **Add New Data**: Add new stock data by filling out a form and submitting it to the app.
+- **Add New Data**: Add a new stock or select an existing trade code to complete the form and submit it to the application.
 - **Update or Delete Data**: You can edit existing stock data or delete it if it's no longer needed.
 - **View Charts**: See the chart showing stock volume and closing values to understand trends.
 - **Search by Date**: Filter and search for stock data by specifying a date range to view specific information.
